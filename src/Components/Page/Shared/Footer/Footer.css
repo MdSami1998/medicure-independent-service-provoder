@@ -1,5 +1,10 @@
-.footer{
+.footer {
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+
+.footer-info {
+    display: grid;
+    grid-template-columns: 3fr 1fr 2fr;
 }

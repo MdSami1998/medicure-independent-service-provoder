@@ -18,7 +18,7 @@ const Navbar = () => {
     }
 
     return (
-        <div className='flex justify-between items-center mx-40'>
+        <div className='flex justify-between items-center px-40 mb-1 sticky top-0 bg-indigo-100'>
 
             <h1 onClick={handleLogoClick} className='text-4xl font-bold cursor-pointer'>Medi<span className='text-indigo-700'>cure</span></h1>
 
