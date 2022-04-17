@@ -1,9 +1,12 @@
 import React from 'react';
 
 const Blogs = () => {
+    const x = () => {
+console.log('clicked')
+    }
     return (
         <div>
-            <h1>Blogs</h1>
+            <button onClick={x}>Blogs</button>
         </div>
     );
 };
