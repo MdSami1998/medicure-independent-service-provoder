@@ -16,13 +16,13 @@ const Footer = () => {
                 <div>
                     <h1 onClick={handleLogoClick} className=' text-center text-4xl font-bold cursor-pointer text-indigo-300'>Medi<span className='text-indigo-50'>cure</span></h1>
                 </div>
-                <div className='text-white'>
+                <div className='text-white flex flex-col items-center md:block'>
                     <p><small>About Online food </small></p>
                     <p><small>Read our blog</small></p>
                     <p><small>Sign Up to deliver</small>  </p>
                     <p><small>Add your restaurant</small></p>
                 </div>
-                <div className='text-white'>
+                <div className='text-white flex flex-col items-center md:block'>
                     <p><small>Get help</small></p>
                     <p><small>Read FAQS</small></p>
                     <p><small>view ALL CITIES</small></p>

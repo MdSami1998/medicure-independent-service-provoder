@@ -42,15 +42,15 @@ const LogIn = () => {
     }
 
     return (
-        <div className='w-1/2 mx-auto p-20 mt-10'>
+        <div className='w-1/2 mx-auto p-20 mt-10 bg-indigo-50 rounded shadow-xl'>
             <form onSubmit={handleLogIn} className='flex flex-col '>
                 <h1 className='text-center mb-10 text-4xl font-bold text-indigo-600'>Please Log In</h1>
 
-                <input ref={emailRef} className='mb-5 p-2 px-5 font-semibold text-xl border-b-2 border-indigo-700 outline-none' type="email" name='email' placeholder='Your Email' required />
+                <input ref={emailRef} className='mb-5 p-2 px-5 font-semibold text-xl border-b-2 border-indigo-700 outline-none bg-transparent' type="email" name='email' placeholder='Your Email' required />
 
-                <input ref={passwordRef} className='mb-5 p-2 px-5 font-semibold text-xl border-b-2 border-indigo-700 outline-none' type="password" name='password' placeholder='Password' required />
+                <input ref={passwordRef} className='mb-5 p-2 px-5 font-semibold text-xl border-b-2 border-indigo-700 outline-none bg-transparent' type="password" name='password' placeholder='Password' required />
 
-                <span className='text-center font-semibold'>New Here? <Link to="/signup" className='text-blue-500 font-semibold hover:font-bold hover:transition-all'>Create a account.</Link></span>
+                <span className='text-center font-semibold'>New Here? <Link to="/signup" className='text-xl text-blue-500 font-semibold hover:font-bold hover:transition-all'>Create a account.</Link></span>
 
                 {errorMessage}
 

@@ -4,7 +4,7 @@ import './Banner.css'
 
 const Banner = () => {
     return (
-        <div className='relative'>
+        <div className='-z-10 relative'>
             <div>
                 <h1 className='title-text text-lg md:text-6xl font-bold'>Your Most Trusted <br /> Health Partner</h1>
             </div>
