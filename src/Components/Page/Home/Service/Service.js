@@ -18,7 +18,7 @@ const Service = ({ service }) => {
                 <h4 className='text-xl font-semibold my-2'>Price:${price}</h4>
                 <small className='font-medium text-justify'>{description}</small>
 
-                <button onClick={checkOutHandle} className='w-2/5 mt-5 py-1 font-semibold border-2 rounded border-indigo-400 hover:border-indigo-500 hover:border-4 hover:scale-x-110'>Check Now</button>
+                <button onClick={checkOutHandle} className='w-3/5 mt-5 py-1 font-semibold border-2 rounded border-indigo-400 hover:border-indigo-500 hover:border-4 hover:scale-x-110'>Get Appointment</button>
             </div>
         </div>
     );

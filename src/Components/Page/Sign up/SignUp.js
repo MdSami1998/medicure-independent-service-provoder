@@ -47,7 +47,7 @@ const SignUp = () => {
     }
 
     return (
-        <div className='w-1/2 mx-auto p-20 mt-10 bg-indigo-50 rounded shadow-xl'>
+        <div className=' w-1/2 mx-auto p-20 m-10 bg-indigo-50 rounded shadow-xl'>
 
 
             <h1 className='text-center mb-10 text-4xl font-bold text-indigo-600'>Please Sign Up</h1>

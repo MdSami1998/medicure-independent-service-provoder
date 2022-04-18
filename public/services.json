@@ -3,21 +3,21 @@
         "id": 1,
         "img": "https://i.ibb.co/j3DNZDq/eye.png",
         "name": "Eye Care",
-        "description": "Anim enim velit nisi esse velit est veniam deserunt. Sint est ipsum incididunt voluptate elit id cupidatat proident velit commodo cupidatat quis. Velit eu quis do nisi ad consequat dolore in est non. Tempor labore excepteur duis officia.",
+        "description": "Your eyes are an important part of your health. Most people rely on their eyes to see and make sense of the world around them. But some eye diseases can lead to vision loss, so it is important to identify and treat eye diseases as early as possible.",
         "price": 196
     },
     {
         "id": 2,
         "img": "https://i.ibb.co/cbVc8SR/dental.png",
         "name": "Dental Care",
-        "description": "Aliqua exercitation sint incididunt commodo. Culpa consectetur cillum eu velit quis ut esse ad dolor reprehenderit sint Lorem. Proident aute excepteur laborum ipsum ex fugiat velit.",
+        "description": "Permanent teeth can last a lifetime with good care. The risk of tooth decay, gum disease and tooth loss can be reduced with good oral hygiene, a low-sugar and acid diet, use of a mouthguard when playing sport, and regular dental visits.It is recommended that everyone,visit the dentist twice a year.",
         "price": 178
     },
     {
         "id": 3,
         "img": "https://i.ibb.co/Qf4yNjb/allergic.png",
         "name": "Allergic Issue",
-        "description": "Aliqua tempor eiusmod nisi ad aliqua culpa ipsum aliquip aute pariatur ea cupidatat. Do commodo nisi ad aute nulla et qui Lorem nostrud aliqua. Aliquip qui culpa quis veniam tempor in amet veniam.",
+        "description": "An allergy is an immune system response to a foreign substance that's not typically harmful to your body. These foreign substances are called allergens. They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.",
         "price": 198
     }
 ]
